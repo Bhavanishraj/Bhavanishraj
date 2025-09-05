@@ -29,9 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavanishraj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavanishraj&layout=compact)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bhavanishraj&theme=radical)
 
 ---
 
