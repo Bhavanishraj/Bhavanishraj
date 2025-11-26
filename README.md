@@ -4,7 +4,7 @@
 
 - 🌱 Ex-Intern at **NLC India Ltd** as a Full Stack Developer  
 - 💻 Skilled in **React | Node.js | SQL | Python | Kotlin (Android)**  
-- 📊 Exploring **Data Science & Cybersecurity**  
+- 📊 Exploring **Data Science**  
 - 🎯 Aspiring to build impactful solutions & pursue advanced studies abroad  
 - 🌍 Open to collaboration on innovative projects  
 
